@@ -1,0 +1,2 @@
+C:\Users\Slimas\source\repos\Tetris\x64\Debug\Tetris.exe
+C:\Users\Slimas\Desktop\Tetris\x64\Debug\Tetris.exe

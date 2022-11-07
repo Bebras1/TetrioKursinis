@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(50,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(61,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(94,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(181,36): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(193,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(193,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(200,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(200,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Slimas\Desktop\Tetris\Main.cpp(41): warning C4715: 'borderCheck': not all control paths return a value
+  Tetris.vcxproj -> C:\Users\Slimas\Desktop\Tetris\x64\Debug\Tetris.exe
